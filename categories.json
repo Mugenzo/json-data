@@ -2,31 +2,31 @@
     {
         "id": 1,
         "title": "shoes",
-        "href": "example.com\/category\/shoes",
+        "href": "example.com\/category\/Shoes",
         "icon": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/shoes.png"
     },
     {
         "id": 2,
         "title": "t-shirts",
-        "href": "example.com\/category\/t-shirts",
+        "href": "example.com\/category\/T-Shirts",
         "icon": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/t-shirts.png"
     },
     {
         "id": 3,
         "title": "trousers",
-        "href": "example.com\/category\/trousers",
+        "href": "example.com\/category\/Trousers",
         "icon": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/trousers.png"
     },
     {
         "id": 4,
         "title": "shirts",
-        "href": "example.com\/category\/shirts",
+        "href": "example.com\/category\/Shirts",
         "icon": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/shirts.png"
     },
     {
         "id": 5,
         "title": "jackets",
-        "href": "example.com\/category\/jackets",
+        "href": "example.com\/category\/Jackets",
         "icon": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/jackets.png"
     }
 ]
