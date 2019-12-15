@@ -4,7 +4,7 @@
         "title": "Navy Crib Shoes",
         "brand": "Mayoral",
         "href": "example.com\/product\/mayoral-navy-pleather-crib-shoes",
-        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/mayoral-navy-pleather-crib-shoes",
+        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/mayoral-navy-pleather-crib-shoes.jpg",
         "price": "15",
         "description": "Mayoral's fun crib shoes in navy blue are perfect for both adventures and events for babies and toddlers. There's Velcro fastenings at the side, light linings, soft soles and a soft and supple faux leather construction to allow little feet to move. The shoes come in a stylish branded box to carry them about and for storage."
     },
@@ -13,7 +13,7 @@
         "title": "White Flower Leather Crib Shoes with Crepe Sole",
         "brand": "Easy Peasy",
         "href": "example.com\/product\/easy-peasy-white-flower-leather-crib-shoes-with-crepe-sole",
-        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/easy-peasy-white-flower-leather-crib-shoes-with-crepe-sole",
+        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/easy-peasy-white-flower-leather-crib-shoes-with-crepe-sole.jpg",
         "price": "15",
         "description": "Treat little feet to a seasonal smash hit with these white shoes from French fashion brand, Easy Peasy. Crafted from a soft leather, the adorable pair include a pull tab to the heel, a layered flower motif to the front and exposed stitching for a contemporary twist. Pair with a sun dress for a completed outfit."
     },
@@ -22,7 +22,7 @@
         "title": "Sand Clarks Originals Suede Shoes",
         "brand": "Clarks",
         "href": "example.com\/product\/clarks-sand-clarks-originals-suede-shoe",
-        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/clarks-sand-clarks-originals-suede-shoe",
+        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/clarks-sand-clarks-originals-suede-shoe.jpg",
         "price": "55",
         "description": "These easy-fasten suede lace-ups in sandy brown by British shoemaker Clarks will inspire and maintain little adventures. They have a wide fit, flexible rubber soles and reinforced heels for a sure step as well as the signature Clarks stitching. Wear with a shirt and leggings or chinos for special events or days with friends. The design has been tested for rub and slip resistance and durability of the upper and heels to check for high quality construction and ease of movement."
     },
@@ -31,7 +31,7 @@
         "title": "Red Scooting Dinos Rain Boots",
         "brand": "Hatley",
         "href": "example.com\/product\/hatley-red-scooting-dinos-rain-boots",
-        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/hatley-red-scooting-dinos-rain-boots",
+        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/hatley-red-scooting-dinos-rain-boots.jpg",
         "price": "27",
         "description": "Protect little feet on rainy days with these blue dino rainboots from Hatley. The reliable pair include an all-over dinosaur print, pull tab at the back, sturdy non-slip sole and stripe print to the back."
     },
@@ -40,7 +40,7 @@
         "title": "Grey with Red Heel RapidaRun Knit Trainers",
         "brand": "adidas Performance",
         "href": "example.com\/product\/grey-with-red-heel-rapidarun-knit-trainers",
-        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/grey-with-red-heel-rapidarun-knit-trainers",
+        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/grey-with-red-heel-rapidarun-knit-trainers.jpg",
         "price": "43",
         "description": "adidas Performance's stylish running trainers in grey and red are perfect for active feet. There's a hardwearing knitted construction, three stripe detail at the sides and a lace closure for a secure fit. The Cloudfoam midsole absorbs shocks and there's a durable rubber outsole, ADIFIT® length-measuring tool to ensure a personalised fit and supple textile lining."
     },
@@ -49,7 +49,7 @@
         "title": "Pink Stan Smith Trainers",
         "brand": "adidas Originals",
         "href": "example.com\/product\/adidas-originals-pink-stan-smith-trainers",
-        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/adidas-originals-pink-stan-smith-trainers",
+        "image": "https://raw.githubusercontent.com/Mugenzo/json-data/master/assets/adidas-originals-pink-stan-smith-trainers.jpg",
         "price": "45",
         "description": "Add a pop of colour to their footwear collection with these pink Stan Smith trainers from adidas Originals. Crafted from a soft leather, the iconic pair includes a lace-up fastening, branding to the side and a sturdy non-slip sole for a safe wear. Team with jeans or a sun dress for a completed outfit."
     }
