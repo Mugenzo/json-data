@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "shoes",
+        "href": "example.com\/category\/shoes"
+    },
+    {
+        "id": 2,
+        "title": "t-shirts",
+        "href": "example.com\/category\/t-shirts"
+    },
+    {
+        "id": 3,
+        "title": "trouses",
+        "href": "example.com\/category\/trouses"
+    },
+    {
+        "id": 4,
+        "title": "shirts",
+        "href": "example.com\/category\/shirts"
+    },
+    {
+        "id": 5,
+        "title": "jackets",
+        "href": "example.com\/category\/jackets"
+    }
+]
